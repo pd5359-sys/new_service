@@ -1,3 +1,8 @@
 Nazwa usługi: Telekonsultacje zdrowotne 
 Opis: Telekonsultacje umożliwiają pacjentom uzyskanie porady medycznej bez konieczności fizycznej wizyty...
 Cele: Poprawa dostępności do usług zdrowotnych oraz obniżenie kosztów leczenia.
+
+Korzyści dla pacjentów:
+- Oszczędność czasu
+- Szybszy dostęp do specjalistów
+- Dostęp z dowolnego miejsca
