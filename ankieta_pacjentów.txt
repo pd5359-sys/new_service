@@ -1,0 +1,9 @@
+Ankieta dla pacjentów dotycząca telekonsultacji:
+
+1. Jak oceniasz wygodę korzystania z telekonsultacji?
+2. Czy czujesz się bezpiecznie korzystając z usług zdalnych?
+3. Jak często chciałbyś kontaktować się z lekarzem online?
+4. Jakie funkcje byłyby dla Ciebie najważniejsze?
+5. Czy masz obawy związane z przesyłaniem danych medycznych?
+6. Co należałoby poprawić w tego typu usługach?
+
