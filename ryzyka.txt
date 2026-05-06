@@ -1,0 +1,7 @@
+Potencjalne ryzyka związane z wprowadzeniem usługi:
+
+- błędy pomiarowe wynikające z nieprawidłowego użycia urządzeń
+- problemy techniczne systemu teleinformatycznego
+- ryzyko naruszenia bezpieczeństwa danych pacjentów
+- brak akceptacji usługi przez część pacjentów
+- opóźnienia w reakcji w przypadku awarii systemu
