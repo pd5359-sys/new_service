@@ -1,4 +1,4 @@
-# New Service Proj# Projekt: Nowa usługa medyczna
+# New Service Projekt: Nowa usługa medyczna
 
 ![Logo projektu](assets/logo_projekt.png)
 
@@ -7,14 +7,14 @@ Projekt koncepcyjny dotyczący wdrożenia usługi telekonsultacji medycznych.
 Zawiera analizę procesu, ryzyk oraz plan wdrożenia.
 
 ## Pliki
-- opis_usługi.txt – założenia i zakres usługi
-- plan_wdrożenia.txt – etapy implementacji
-- ryzyka.txt – identyfikacja potencjalnych zagrożeń
+- opis_usługi.txt – opis koncepcji usługi, jej zakresu oraz głównych założeń.
+- plan_wdrożenia.txt – etapy wdrożenia usługi, w tym przygotowanie, testowanie i uruchomienie.
+- ryzyka.txt – identyfikacja potencjalnych zagrożeń (technicznych i organizacyjnych).
 
-## Instrukcja
+## **Instrukcja pracy z repozytorium**
 ```bash
-git clone <repo_url>
-git checkout marketingect
+git clone 
+
 
 ## Użyte komendy
 - git init – inicjalizacja repozytorium
