@@ -1,8 +1,11 @@
-Nazwa usługi: Telekonsultacje zdrowotne 
-Opis: Telekonsultacje umożliwiają pacjentom uzyskanie porady medycznej bez konieczności fizycznej wizyty...
-Cele: Poprawa dostępności do usług zdrowotnych oraz obniżenie kosztów leczenia.
+Telemonitoring pacjentów z nadciśnieniem tętniczym to usługa umożliwiająca zdalne monitorowanie ciśnienia krwi w warunkach domowych. Pacjenci regularnie wykonują pomiary za pomocą ciśnieniomierza, a wyniki są przesyłane do systemu.
 
-Korzyści dla pacjentów:
-- Oszczędność czasu
-- Szybszy dostęp do specjalistów
-- Dostęp z dowolnego miejsca
+Dane są analizowane automatycznie, a w przypadku nieprawidłowości system powiadamia personel medyczny. Usługa umożliwia również konsultacje online z lekarzem, co pozwala na szybszą reakcję i lepszą kontrolę choroby.
+
+Usługa telemonitoringu przynosi pacjentom wiele korzyści:
+
+- stała kontrola stanu zdrowia bez częstych wizyt w przychodni
+- szybsza reakcja w przypadku nieprawidłowych wyników
+- większe poczucie bezpieczeństwa
+- wygoda wykonywania pomiarów w domu
+- lepsza kontrola nad chorobą i leczeniem

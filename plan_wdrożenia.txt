@@ -1,8 +1,9 @@
-Etapy wdrożenia: 
-1. Przygotowanie infrastruktury IT (w tym zapewnienie zgodności z Systemem Informacji Medycznej (SIM) w celu raportowania świadczeń w ciągu 48 godzin.) - do 30 czerwca 2027 r. 
-2. Przeszkolenie personelu - do 15 lipca 2027 r.
-3. Pilotaż -  Uruchomienie usługi w ograniczonym zakresie w celu przetestowania procedur i zebrania opinii. - 17 sierpnia 2027 r. 
-3. Kampania informacyjna dla pacjentów - do 1 sierpnia 2027 r. 
-4. Start usługi - 15 sierpnia 2027 r.
+Plan wdrożenia usługi obejmuje kilka etapów:
 
-
+1. Analiza potrzeb pacjentów i wymagań medycznych do 30.06.2027 r.
+2. Opracowanie systemu telemonitoringu - do 1.08.2027 r.
+3. Testy wewnętrzne aplikacji i urządzeń pomiarowych - do 01.10.2027 r.
+4. Pilotaż z wybraną grupą pacjentów - do 06.12.2027 r.
+5. Zbieranie opinii i wprowadzenie poprawek - do 15.01.2028 r.
+6. Pełne wdrożenie usługi - do 01.04.2028 r.
+7. Stałe monitorowanie i rozwój systemu - po 01.05.2028 r.
