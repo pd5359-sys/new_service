@@ -14,28 +14,43 @@ Zawiera analizę procesu, ryzyk oraz plan wdrożenia.
 ## **Instrukcja pracy z repozytorium**
 
 ### **Klonowanie repozytorium**
-Aby pobrać repozytorium na komputer lokalny, należy użyć polecenia:
 ```bash
 git clone git@github.com:pd5359-sys/new_service.git
+```
 ### **Przejście do katalogu projektu**
+```bash
 cd new_service
+```
 ### **Sprawdzenie dostępnych gałęzi**
+```bash
 git branch
+```
 ### **Przełączenie na inną gałąź**
+```bash
 git checkout marketing
+```
 ### **Pobranie najnowszych zmian z GitHub**
+```bash
 git pull
+```
 ### **Dodawanie nowych plików do repozytorium**
+```bash
 git add .
 git commit -m "Opis zmian"
+```
 ### **Wysłanie zmian do repozytorium zdalnego**
+```bash
 git push
+```
 ### **Przywracanie wcześniejszych wersji**
 Wyświetlenie historii commitów:
+```bash
 git log
+```
 Przywrócenie wybranego pliku:
+```bash
 git checkout nazwa_commita -- nazwa_pliku
-
+```
 ## **Użyte komendy**
 - git init – inicjalizacja repozytorium
 - git add – dodawanie plików do obszaru staged
