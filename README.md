@@ -2,27 +2,51 @@
 
 ![Logo projektu](assets/logo_projekt.png)
 
-## Opis
+## **Opis**
 Projekt koncepcyjny dotyczący wdrożenia usługi telekonsultacji medycznych.
 Zawiera analizę procesu, ryzyk oraz plan wdrożenia.
 
-## Pliki
+## **Pliki**
 - opis_usługi.txt – opis koncepcji usługi, jej zakresu oraz głównych założeń.
 - plan_wdrożenia.txt – etapy wdrożenia usługi, w tym przygotowanie, testowanie i uruchomienie.
 - ryzyka.txt – identyfikacja potencjalnych zagrożeń (technicznych i organizacyjnych).
 
 ## **Instrukcja pracy z repozytorium**
+
+### **Klonowanie repozytorium**
+Aby pobrać repozytorium na komputer lokalny, należy użyć polecenia:
 ```bash
-git clone 
+git clone git@github.com:pd5359-sys/new_service.git
+### **Przejście do katalogu projektu**
+cd new_service
+### **Sprawdzenie dostępnych gałęzi**
+git branch
+### **Przełączenie na inną gałąź**
+git checkout marketing
+### **Pobranie najnowszych zmian z GitHub**
+git pull
+### **Dodawanie nowych plików do repozytorium**
+git add .
+git commit -m "Opis zmian"
+### **Wysłanie zmian do repozytorium zdalnego**
+git push
+### **Przywracanie wcześniejszych wersji**
+Wyświetlenie historii commitów:
+git log
+Przywrócenie wybranego pliku:
+git checkout nazwa_commita -- nazwa_pliku
 
-
-## Użyte komendy
+## **Użyte komendy**
 - git init – inicjalizacja repozytorium
 - git add – dodawanie plików do obszaru staged
 - git commit – zapisywanie zmian w historii projektu
 - git branch – zarządzanie gałęziami
 - git checkout – przełączanie się między gałęziami i wersjami
 - git merge – scalanie zmian między gałęziami
-git log – przegląd historii commitów
-git reset – przywracanie wcześniejszych wersji repozytorium
+- git log – przegląd historii commitów
+- git reset – przywracanie wcześniejszych wersji repozytorium
 - git merge
+
+## **Napotkane problemy**
+
+Podczas pracy wystąpiły problemy z konfiguracją klucza SSH oraz autoryzacją połączenia z GitHub. Problem został rozwiązany poprzez ponowne dodanie klucza SSH do konta GitHub i konfigurację ssh-agent.
